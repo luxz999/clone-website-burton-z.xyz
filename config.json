@@ -1,0 +1,59 @@
+{
+    "songs":["noevdv_.mp3"],
+    "Namesongs":["Burton กำลังเล่นเพลง..."],
+
+    "favicon": "./image/d.webp",
+    "titles": ["SSS", "999", "FFF"],
+
+    "contact_name1": "FACEBOOK",
+    "contact_icon1": "https://dl.memuplay.com/new_market/img/com.facebook.katana.icon.2024-12-27-21-01-37.png",
+    "contact_link1": "https://www.facebook.com/profile.php?id=100088986878400",
+
+    "contact_name2": "DISCORD",
+    "contact_icon2": "./image/discordf.webp",
+    "contact_link2": "https://discord.gg/og-shop",
+
+    "MyName": "Burton",
+
+    "nameButton": "Click Me...",
+
+    "description": "ʟᴏᴠᴇ ᴍᴏʀᴇ ᴛʜᴀɴ ᴀɴʏᴛʜɪɴɢ ❤️💖",
+
+    "backgroundBody": "./image/sss.mp4",
+
+    "Profile": "./image/pp.gif",
+
+    "Profileframe": "./image/dd.png",
+
+    "ProfileframeBanner": "./image/intro.png",
+
+    "BannerProfile": "./image/banner.png",
+
+    "texts1": [
+        "꒰ time:t ꒱ ✦ ꒰ date:n ꒱",
+        "꒰ time:t ꒱ ✦ ꒰ day:th ꒱"
+    ],
+
+    "texts2": [
+        "꒰ 【 𝟏 / 𝟐 】👒ꔛ☆★☆★☆★☆★ꔛ ꒱",
+        "꒰ 【 𝟐 / 𝟐 】👒ꔛ☆★☆★☆★☆★ꔛ ꒱"
+    ],
+
+    "texts3": [
+        "⋆꒰ 🌡️ temp:c °𝐂 ꒱ εїз ꒰🍃 ping:ms 𝗸𝗺/𝘀 ꒱⋆",
+        "⋆꒰ 🌡️ temp:c °𝐂 ꒱ εїз ꒰🍃 ping:ms 𝗸𝗺/𝘀 ꒱⋆"
+    ],
+
+    "imageste": [
+        "https://media1.tenor.com/m/Phpl-vBIY1AAAAAd/riamu-yumemi-idolmaster.gif",
+        "https://cdn.discordapp.com/attachments/1256536015955296326/1355822958907756676/2888090.gif?ex=67ea5407&is=67e90287&hm=fac9b469d1aa013af536f17bdb3341bb2e7112e16b67ac95b385af69daba93a7&"
+    ],
+
+    "namebutton1": "DISCORD",
+    "LinkButton1": "https://discord.gg/og-shop",
+
+    "namebutton2": "TIK TOK",
+    "LinkButton2": "https://www.tiktok.com/@burton_159"
+
+
+}
